@@ -1,5 +1,5 @@
 # AZ-400: Designing and Implementing Microsoft DevOps Solutions
-
+https://github.com/abhijithjayakara/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/tree/master/Instructions/Labs/images
 ## Welcome
 
 This repository is for instructors teaching Microsoft courses. If you are in class, please ask your instructor for assistance. 
